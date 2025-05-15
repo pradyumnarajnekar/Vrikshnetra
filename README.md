@@ -1,2 +1,7 @@
 # Vrikshnetra
 Major Project
+
+In today’s technology-driven world, the need for accurate and efficient plant identification has grown significantly, impacting fields such as environmental research, agriculture, and medicinal studies. Traditional methods of plant classification rely on expert knowledge, making them time-consuming and often inaccessible to the general public. While digital solutions have attempted to bridge this gap, many existing plant identification platforms struggle with inconsistencies, misclassification, and a lack of structured filtering. These limitations hinder users—including researchers, conservationists, and plant enthusiasts—from quickly and reliably identifying plant species.
+The demand for an intelligent, real-time identification system is evident. Users require a solution that not only recognizes plant species with high accuracy but also categorizes them based on specific characteristics such as medicinal value, ecological significance, and regional distribution. Vrikshnetra addresses this need by leveraging deep learning, specifically a CNN-based model, to analyze plant images and provide structured, real-time identification. By offering a user-friendly interface and category-based filtering, Vrikshnetra enhances accessibility and promotes better engagement with botanical knowledge. This structured approach ensures that users can efficiently identify plants while contributing to conservation efforts and research advancements.
+
+View the deployed project here - https://vrikshnetra.netlify.app/
